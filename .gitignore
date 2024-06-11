@@ -5,7 +5,7 @@ node_modules/
 
 # Google files
 google-services.json
-GoogleServices.json
+GoogleService-Info.plist
 
 # Android
 android/
