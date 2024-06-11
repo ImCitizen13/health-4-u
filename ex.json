@@ -1,0 +1,16 @@
+{
+  "autoFocusSystem": "contrast-detection",
+  "fieldOfView": 86.72684306085912,
+  "maxFps": 30,
+  "maxISO": 3200,
+  "minFps": 8,
+  "minISO": 25,
+  "photoHeight": 3060,
+  "photoWidth": 4080,
+  "supportsDepthCapture": false,
+  "supportsPhotoHdr": false,
+  "supportsVideoHdr": true,
+  "videoHeight": 2160,
+  "videoStabilizationModes": ["off", "cinematic", "cinematic-extended"],
+  "videoWidth": 3840
+}
