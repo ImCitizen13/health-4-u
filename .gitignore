@@ -3,6 +3,16 @@
 # dependencies
 node_modules/
 
+# Google files
+google-services.json
+GoogleServices.json
+
+# Android
+android/
+#IOS
+.ios/
+
+
 # Expo
 .expo/
 dist/
